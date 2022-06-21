@@ -1,5 +1,6 @@
 # PALE: 52 48 52
 This is the resources and docs of the group work, a VR experience, created by Hanyi Hao, Han Lin Zhang, Yiran Zhu, Fan Shu and Fan Yang
+<div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/ScenesImages/post.JPG" width="480"></div>
 
 General Introduction
 ====
@@ -85,6 +86,32 @@ Welcome to the interior of the "讹兽". Beneath the curved glass walls, small o
 
 ### 1. BrainStorm and WorkFlow on Miroboard:
 
-<div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/1.png" height="270"><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/2.png" height="270"><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/3.png" height="270"> <img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/4.png" height="270">
+<div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/1.png" height="270"></div>
+  <div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/2.png" height="270"><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/3.png" height="270"> <img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main/MiroboardImages/4.png" height="270"></div>
+  
+
+### 2. The sketch of models:
+  
+  <div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/s1_1.jpg" height="360" >
+  <img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/s2_1.png" height="270"></div>  
+  <div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/s2_2.jpeg" height="270"><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/s2_3.jpeg" height="270" ><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/s2_4.jpeg" height="270"></div>
+  
+ <div align=center><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/inenvir.jpg" height="270" ><img src="https://github.com/Turquoise-Haohy/GroupWork_Pale524852/blob/main//ScenesImages/inenvir2.jpg" height="270"></div>
+
+
+#### *Softbody with rigify Testing*
+
+https://user-images.githubusercontent.com/73295564/174817392-01da9b68-d850-4359-955d-76509b9c360a.mp4
+
+### 3. Videos on exhibition day:
+
+
+
+
+https://user-images.githubusercontent.com/73295564/174817434-97e9207b-648f-4e97-8d97-0eac029710e8.mp4
+
+
+
+https://user-images.githubusercontent.com/73295564/174817420-ded7b789-6fab-4d5c-abba-426e83c8f514.mp4
 
 
