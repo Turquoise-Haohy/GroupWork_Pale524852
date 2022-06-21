@@ -1,6 +1,18 @@
 # General Introduction
 This is the resources and docs of the group work, a VR experience, created by Hanyi Hao, Han Lin Zhang, Yiran Zhu, Fan Shu and Fan Yang
 
+### Video showing the whole process:
+*Opening of the Experience*
+https://user-images.githubusercontent.com/73295564/174787911-a1b8306f-fe2f-4845-a1f7-4b37b27dcf99.mp4
+
+*CyberMonster-Chaos*
+https://user-images.githubusercontent.com/73295564/174788071-05971857-74bf-4e4f-8e83-9c6f77fda502.mp4
+
+*CyberMonster- é*
+https://user-images.githubusercontent.com/73295564/174789649-cf4a1e1d-5afd-494e-a557-f845b1eeacec.mp4
+
+
+
 ### Package Link: [Google Drive Link](https://drive.google.com/drive/folders/17SGDDvv5EVOkFGkxXJokiD25qajJjRNQ?usp=sharing)
 
 ### PALE: 52 48 52
