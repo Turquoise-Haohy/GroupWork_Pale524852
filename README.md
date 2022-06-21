@@ -16,7 +16,7 @@ Here you might find yourself significance, but a tiny boat on the open sea…
 Enjoy!
 
 ### Package Link: [Google Drive Link](https://drive.google.com/drive/folders/17SGDDvv5EVOkFGkxXJokiD25qajJjRNQ?usp=sharing)
-### Video Link:https://youtu.be/nq3-PcBXttM
+### Video Link: https://youtu.be/nq3-PcBXttM
 
 ### Expereince Jouney:
 *Opening of the Experience*
