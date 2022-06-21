@@ -6,6 +6,7 @@ This is the resources and docs of the group work, a VR experience, created by Ha
 
 https://user-images.githubusercontent.com/73295564/174787911-a1b8306f-fe2f-4845-a1f7-4b37b27dcf99.mp4
 
+![scenestart](Turquoise-Haohy/Groupwork_Pale524852/)
 When the player puts on the VR glasses, the first thing that strikes them is the blue space of nothingness. Here is the start of the game, where you can familiarize yourself with the visuals of the immersive scenes as well as the action. You will see cookies floating in the air and the "We value your privacy" interface. This interface is a necessary action before entering the 524852 space. It requires you to provide your online privacy. The irony is that you only have options are "accept all cookies" and "No other choice". This is a metaphor for the way people's privacy is being compromised all the time in the online world, and there is nothing you can do about it.
 
 After "Accept all cookies", you will arrive at space 524852. This is the dark web of the cyber world. It is the hidden corner of the cyber world, covering 50% of the entire cyber world. It profoundly affects people's virtual lives. Here you will see invisible cyber monsters. They're not scary, even not physical. But as you go deeper into your experience on the dark web, you will be gradually consumed by its great appearance. Eventually, you will sink deeper into the monster's body and cannot escape.
