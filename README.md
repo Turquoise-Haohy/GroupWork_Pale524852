@@ -21,7 +21,7 @@ Enjoy!
 ### Package Link: [Google Drive Link](https://drive.google.com/drive/folders/17SGDDvv5EVOkFGkxXJokiD25qajJjRNQ?usp=sharing)
 ### HD Video Link: https://youtu.be/nq3-PcBXttM
 
-### Expereince Jouney:
+### Expereince Journey:
 *Opening of the Experience*
 
 https://user-images.githubusercontent.com/73295564/174787911-a1b8306f-fe2f-4845-a1f7-4b37b27dcf99.mp4
